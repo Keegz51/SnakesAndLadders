@@ -1,0 +1,7 @@
+C:\Users\keega\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.exe.config
+C:\Users\keega\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.exe
+C:\Users\keega\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\bin\Debug\SnakesAndLadders.pdb
+C:\Users\keega\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.csprojAssemblyReference.cache
+C:\Users\keega\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.csproj.CoreCompileInputs.cache
+C:\Users\keega\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.exe
+C:\Users\keega\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\SnakesAndLadders\obj\Debug\SnakesAndLadders.pdb
